@@ -1,9 +1,5 @@
 
 
-<div id="header" align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/987884882627897716/C93D0286765DEE129571DE5CFAE5EC69E3F9294F/" width="1000" height="200"/>
-</div>
-
 <h3 align="center"> Hey! I'm  <strong> Sadman Hafiz </strong> </h3>
 
 <div align="center"> 
