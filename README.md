@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/54_sadman" target="blank"><img src="https://img.shields.io/twitter/follow/54_sadman?logo=twitter&style=for-the-badge" alt="54_sadman" /></a> </p>
 
-- I’m currently learning **Java, CSS & Django**
+- I’m currently learning **Dart & Java**
 
 - I’m looking for help with **Database Management System**
 
@@ -32,8 +32,8 @@
  <br>
  <br>
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shshovro&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shshovro&theme=ayu-mirage&hide_border=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shshovro&theme=ayu-mirage&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shshovro&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  <br>
  <br>
