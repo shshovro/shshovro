@@ -29,17 +29,11 @@
  <br>
  <br>
 ## GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shshovro&theme=ayu-mirage&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shshovro&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  <br>
  <br>
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shshovro&theme=radical&no-frame=true&no-bg=false&margin-w=4)
- <br>
- <br>
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shshovro&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 
 <br>
