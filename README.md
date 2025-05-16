@@ -1,4 +1,4 @@
-
+<p><a href="https://techforpalestine.org/learn-more"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" width="100%"/></a></p>
 
 <h3 align="center"> Hey! I'm  <strong> Sadman Hafiz </strong> </h3>
 
@@ -25,33 +25,14 @@
  <br>
  <br>
 ## Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)    ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-%230070AD.svg?style=flat&logo=codeblocks&logoColor=white) 
+![NetBeans](https://img.shields.io/badge/NetBeans-%230070AD.svg?style=flat&logo=apachenetbeanside&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat&logo=visualstudio&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellijidea&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![Scene Builder](https://img.shields.io/badge/Scene%20Builder-%23007ACC.svg?style=flat&logo=java&logoColor=white)
  <br>
  <br>
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shshovro&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
- <br>
- <br>
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shshovro&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
 
-
-<br>
-<br>
-<br>
-<h5 align="center">
-𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 To 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎. <br>
-𝙷𝚊𝚟𝚎 𝚊 nice 𝚍𝚊𝚢 ! 
-  <br>
-
-</h5>
-<div align="center">
-
-![repo size](https://img.shields.io/github/repo-size/isharamaduranga/isharamaduranga?label=Repo%20Size&style=for-the-badge&labelColor=black&color=1eb61e)
-![GitHub forks](https://img.shields.io/github/forks/isharamaduranga/isharamaduranga?&labelColor=black&color=2196f3&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/isharamaduranga/isharamaduranga?&labelColor=black&color=ff9800&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/isharamaduranga/isharamaduranga?logo=github&labelColor=black&color=e91e63&style=for-the-badge)
-</div>
 
 <br>
 <br>
