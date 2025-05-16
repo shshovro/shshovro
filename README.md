@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/54_sadman" target="blank"><img src="https://img.shields.io/twitter/follow/54_sadman?logo=twitter&style=for-the-badge" alt="54_sadman" /></a> </p>
 
 - I’m currently learning **Flutter**
-- Ask me about **HTML3, CSS5, SQL**
+- Ask me about **DART, HTML3, CSS5, SQL**
 - How to reach me **sadmanhafiz@gdgdhaka.com**
 
  
